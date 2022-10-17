@@ -7,7 +7,7 @@
         <style>
             .omar{
                 width: 100%;
-                height: 240px;
+                height: 250px;
                 border: 1px solid red;
                 background-color: rgb(78, 78, 80);
                 color: white;
